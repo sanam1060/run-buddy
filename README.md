@@ -13,4 +13,4 @@ https://lernantino.github.io/rub-buddy
 ## Contribution
 Made with ❤️ by Sanam G
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc 
